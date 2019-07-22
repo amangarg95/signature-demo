@@ -1,0 +1,7 @@
+#Mon Jul 22 09:55:20 IST 2019
+base.0=/Users/amangarg/Documents/SignatureApp/app/build/intermediates/dex/debug/mergeExtDexDebug/out
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/amangarg/Documents/SignatureApp/app/build/intermediates/dex/debug/mergeProjectDexDebug/out
